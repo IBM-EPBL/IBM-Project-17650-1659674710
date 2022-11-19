@@ -1,0 +1,7 @@
+SOURCE CODE
+  
+import random
+print('Hazardous Water Level=',str(random.randint(0,100)))
+print('Temperature=',str(random.randint(0,100)))
+print('Humidity=',str(random.randint(0,100)))
+print('Pressure=',str(random.randint(0,100)))
